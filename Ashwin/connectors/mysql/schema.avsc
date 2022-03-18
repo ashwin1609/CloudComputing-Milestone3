@@ -34,7 +34,6 @@
       "type": {
         "connect.name": "org.apache.kafka.connect.data.Timestamp",
         "connect.version": 1,
-        "logicalType": "timestamp-millis",
         "type": "long"
       }
     }
